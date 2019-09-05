@@ -1,2 +1,2 @@
-# medivet
+# Medivet
 Frontend UI component library
